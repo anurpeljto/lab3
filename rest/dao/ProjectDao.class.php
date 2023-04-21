@@ -1,6 +1,6 @@
 <?php
 
-class UserDao {
+class ProjectDao.class {
     private $conn;
     private $username = 'root';
     private $host = 'localhost';
