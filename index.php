@@ -18,5 +18,6 @@ Flight::route('GET /api/users', function(){
 
 
 
+ echo "Test";
  
 ?>
