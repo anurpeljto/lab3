@@ -5,7 +5,7 @@ class UserDao {
     private $username = 'root';
     private $host = 'localhost';
     private $password = 'root';
-    private $database = 'lab3';
+    private $database = 'lab3_db';
 
     public function __construct(){
         try {
