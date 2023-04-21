@@ -11,6 +11,7 @@ Flight::route('GET /api/users', function(){
     var_dump($users);
     Flight::json($users);
     });
+    
  Flight::start();
 
 
